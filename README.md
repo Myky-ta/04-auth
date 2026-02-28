@@ -1,1 +1,4 @@
 # 04-auth
+
+ DB_URI=mongodb+srv://nikita24tenith_db_user:zYPg9iMy0GYsr3ir@cluster0.p8tmy9v.mongodb.net/db-contacts?retryWrites=true&w=majority
+PORT=3000
