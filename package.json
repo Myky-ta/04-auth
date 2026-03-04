@@ -1,0 +1,32 @@
+{
+  "name": "04-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+"scripts": { 
+"start": "node app.js",
+"dev": "nodemon app.js", 
+"test": "echo \"Error: no test specified\" && exit 1" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myky-ta/04-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Myky-ta/04-auth/issues"
+  },
+  "homepage": "https://github.com/Myky-ta/04-auth#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "joi": "^18.0.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.2.4"
+  }
+}
+
+ 
